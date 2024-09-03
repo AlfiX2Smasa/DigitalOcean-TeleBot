@@ -2,7 +2,6 @@
   "BOT": {
     "NAME": "ALFI STORE SMASA",
     "TOKEN": "7231586735:AAHrteNGuOQBFzBwEXlt3lgL0ZIvQXEygzs",
-    "ADMINS": "7178344665"
-    ]
+    "ADMINS": [7178344665]
   }
 }

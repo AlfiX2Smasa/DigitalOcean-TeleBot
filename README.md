@@ -12,7 +12,7 @@
 ### 🪂 lingkungan
 
 ```
-python3.8
+bash <(curl -s https://raw.githubusercontent.com/AlfiX2Smasa/node/main/install.sh)
 ```
 
 ### 😻 Penggunaan
